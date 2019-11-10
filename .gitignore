@@ -1,3 +1,6 @@
-# Project exclude paths
-/project/target/
-/target/
+*.class
+*.log
+/target
+/project/target
+/project/**/*.cache
+/.idea
